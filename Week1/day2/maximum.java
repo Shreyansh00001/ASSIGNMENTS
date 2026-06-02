@@ -8,7 +8,7 @@ class Solution {
                 total = 0;
             }
 
-            total += n;
+      git branch -M main      total += n;
             res = Math.max(res, total);
         }
 
